@@ -4,4 +4,6 @@ new changes, new changes.
 
 new changes again.
 
+new changes for the branch, from newbranch.
+
 
